@@ -6,4 +6,5 @@ out
 sqlite.db
 sqlite.db-journal
 .DS_Store
+.wrangler
 *.log
